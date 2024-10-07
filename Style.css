@@ -1,0 +1,15 @@
+#Home-content{width: 55%; display: inline-block; margin-left: 30px;}
+
+#home-img{width: 40%; float: right; margin-top: 80px; margin-right: 20px; border-radius: 20px;}
+
+#title{text-align: center; background-color: purple; color: whitesmoke; letter-spacing: 8px; font-size: 40px; font-family: serif; padding: 20px; margin: 0px;}
+
+body{font-family: calibri; margin: 0px;} 
+
+#home{background-image: url(Background.jpeg); background-size: 100% 100%; }
+
+h1{color: darkmagenta; font-size: 60px;}
+
+#school-description{font-size: 20px;}
+
+.school-highlights{ display: inline-block; padding: 30px; text-align: center;}

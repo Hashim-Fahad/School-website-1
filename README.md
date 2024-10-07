@@ -1,1 +1,1 @@
-# School-website-1
+# SchoolWebsiteImages
